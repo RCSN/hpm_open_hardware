@@ -45,3 +45,24 @@
 仓库地址：https://github.com/HSLink/HSLink_Hardware
 
 ![](image/hslink.png)
+
+## HPM6360-测试板
+
+基于HPM6360的开发板
+仓库地址：[hpm6360-ce-shi-ban - 立创开源硬件平台](https://oshwhub.com/hasaki6/hpm6360-ce-shi-ban)
+
+![](image/hpm6360-ce-shi-ban_top.png)
+
+![](image/hpm6360-ce-shi-ban.png)
+
+## HPM5361MiniFOC
+
+基于HPM5361高性能国产RV内核MCU的迷你FOC驱动器
+仓库地址：[HPM5361MiniFOC - 立创开源硬件平台](https://oshwhub.com/lx050724/hpm5361foc)
+代码链接：https://github.com/LX050724/HPM5361MiniFOC
+
+![](image/HPM5361MiniFOC_top.png)
+
+![](image/HPM5361MiniFOC_board.jpeg)
+
+

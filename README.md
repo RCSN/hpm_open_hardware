@@ -88,3 +88,12 @@
 
 ![](image/HSDevKit5301_image.jpg)
 ![](image/HSDevKit5301_top.png)
+
+## OSBDM/OSJTAG for Qorivva MPC55xx/56xx
+基于 HPM5301 的 OSBDM 调试器，适用于 NXP 和 ST 的 PowerPC 内核单片机。
+
+仓库地址：
+https://github.com/zhangjinke/osbdm_hpm5301_hardware
+https://github.com/zhangjinke/osbdm_hpm5301_software
+
+![](image/OSJTAG.jpg)

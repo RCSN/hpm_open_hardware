@@ -66,3 +66,25 @@
 ![](image/HPM5361MiniFOC_board.jpeg)
 
 
+## HSCanT
+
+- HSCanT 是一款USB转4路CAN FD工具，基于HPM5321芯片设计
+  - 支持4路CAN FD通道
+  - 每路CAN FD通道支持最高8Mbit/s的数据传输速率
+  - 支持上位机配置可选的120Ω终端电阻
+  - 每路通道均支持独立的TX、RX状态全彩LED指示
+  - 支持最高±58V的过压保护
+
+仓库地址：[HSCanT](https://github.com/HalfSweet/HSCanT)
+
+![](image/HScanT-image.jpg)
+![](image/HCanT_top.png)
+
+## HSDevKit5301
+
+- 基于hpm5301设计的开发板
+
+仓库地址：[HSDevKit5301](https://github.com/HalfSweet/HSDevKit5301)
+
+![](image/HSDevKit5301_image.jpg)
+![](image/HSDevKit5301_top.png)

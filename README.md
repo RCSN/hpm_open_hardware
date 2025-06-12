@@ -97,3 +97,17 @@ https://github.com/zhangjinke/osbdm_hpm5301_hardware
 https://github.com/zhangjinke/osbdm_hpm5301_software
 
 ![](image/OSJTAG.jpg)
+
+## HPM6284Foc
+
+- 基于HPM6284的FOC驱动器
+
+
+仓库地址：[HPM6284Foc](https://github.com/LX050724/HPM6284Foc.git)
+
+![](image/HPM6284Foc_board.jpg)
+
+![](image/HPM6284Foc_top.png)
+
+![](image/HPM6284Foc_buttom.png)
+

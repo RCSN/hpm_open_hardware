@@ -28,6 +28,8 @@
 
 仓库地址：[hpm68-hmi - 立创开源硬件平台](https://oshwhub.com/hasaki6/hpm68-hmi)
 
+源码地址: https://github.com/starry-m/hpm6800-hmi
+
 ![](image/ZLG_HPM6800_CORE_board.png)
 
 ![](image/ZLG_HPM6800_CORE_board.jpeg)

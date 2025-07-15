@@ -105,11 +105,27 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 - 基于HPM6284的FOC驱动器
 
 
-仓库地址：[HPM6284Foc](https://github.com/LX050724/HPM6284Foc.git)
+- 仓库地址：[HPM6284Foc](https://github.com/LX050724/HPM6284Foc.git)
 
 ![](image/HPM6284Foc_board.jpg)
 
 ![](image/HPM6284Foc_top.png)
 
 ![](image/HPM6284Foc_buttom.png)
+
+
+## HPM53E1-KIT
+- 基于hpm5e31的EtherCAT开发板，板载HSLINK，本板子对应IPB-TINY Board，使用树莓派40PIN引出IO
+
+- 仓库地址：[HPM53E1-KIT](https://oshwhub.com/hasaki6/hpm5e31-kit)
+
+![](image/HPM5E31-KIT_TOP.png)
+
+![](image/HPM5E31-KIT_buttom.png)
+
+## miniHslink
+
+- 基于HPM5301 迷你版Hslink硬件
+- 仓库地址：[miniHslink](https://github.com/KotoriProject/miniHslink)
+![](image/mini-hslink.png)
 

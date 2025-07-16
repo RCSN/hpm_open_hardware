@@ -114,10 +114,10 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 ![](image/HPM6284Foc_buttom.png)
 
 
-## HPM53E1-KIT
+## HPM5E31-KIT
 - 基于hpm5e31的EtherCAT开发板，板载HSLINK，本板子对应IPB-TINY Board，使用树莓派40PIN引出IO
 
-- 仓库地址：[HPM53E1-KIT](https://oshwhub.com/hasaki6/hpm5e31-kit)
+- 仓库地址：[HPM5E31-KIT](https://oshwhub.com/hasaki6/hpm5e31-kit)
 
 ![](image/HPM5E31-KIT_TOP.png)
 
@@ -129,3 +129,16 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 - 仓库地址：[miniHslink](https://github.com/KotoriProject/miniHslink)
 ![](image/mini-hslink.png)
 
+## LuckyCAT
+
+- LuckyCAT是一款采用先辑半导体 HPM5E31 芯片，支持EtherCAT主从站开发的工业嵌入式开发板，适用于刀片IO、PLC、伺服电机等工业嵌入式应用，主频高达480MHz，能满足复杂的逻辑设计需求，采用全国产化设计，原理图PCB全开源，提供入门资料和视频方便新手快速上手开发
+
+- 仓库地址：
+    - github
+        - https://github.com/coinlockerbaby/LuckyCAT_HardWare
+        - https://github.com/coinlockerbaby/LuckyCAT_SoftWare
+    - 立创开源硬件平台：https://oshwhub.com/undefined-innovation/hpmduino_dev
+
+![](image/LuckyCAT_top.png)
+
+![](image/LuckyCAT.png)

@@ -142,3 +142,15 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 ![](image/LuckyCAT_top.png)
 
 ![](image/LuckyCAT.png)
+
+## HPM5E-EC-DEV 先楫Ethercat开发板
+
+- 基于先楫HPM5E31IPB1的Ethercat开发板，将Ethercat P0/P1和千兆以太网接口引出，板载LCD、DS18B20、蜂鸣器、USB OTG、串口、CAN等外设
+
+- 仓库地址：[HPM5E-EC-DEV 先楫Ethercat开发板](https://oshwhub.com/azure2024/hpm5e-ec-dev-public)
+
+![](image/hpm5e_ec_dev_top.png)
+
+![](image/hpm5e_ec_dev.png)
+
+

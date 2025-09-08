@@ -154,3 +154,15 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 ![](image/hpm5e_ec_dev.png)
 
 
+## 基于HPM6750的lambda-pi
+
+- 基于HPM6750的开发板，版型参考ART-PI，原理图参考了HPM6750EVK2和HPM6750EVKMINI开发板，板载HSLINK烧录器和多种常用外设，引出74个IO口
+
+- 仓库地址：[基于HPM6750的lambda-pi](https://oshwhub.com/zhaowenbin/lambda-pi)
+
+![](image/lambda-pi-top.png)
+
+![](image/lambda-pi-buttom.png)
+
+![](image/lambda-pi-3d.png)
+

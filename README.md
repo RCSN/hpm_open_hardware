@@ -166,3 +166,10 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 
 ![](image/lambda-pi-3d.png)
 
+## 基于HPM5E31的双路EtherCAT高性能高精度FOC驱动板
+
+- 仓库地址: [HPM5E31_ECatDualFOC](https://github.com/LX050724/HPM5E31_ECatDualFOC)
+- 此仓库包括了软件和硬件
+
+![](image/HPM5E31_ECatDualFOC.jpg)
+

@@ -186,3 +186,12 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 - 仓库地址: [VCAN](https://github.com/vseasky/VCAN_HW)
 
 ![](image/vcan.png)
+
+
+## hpm5e31kit-Plus
+
+- 使用BGA-196封装版本的HPM5E31芯片，可以同时使用ESC和千兆网。也就是说可以自己即跑主站又跑从站
+
+- 仓库地址: [hpm5e31kit-Plus](https://oshwhub.com/hasaki6/hpm5e31kit-plus)
+
+![](image/hpm5e31kit-Plus.jpg)

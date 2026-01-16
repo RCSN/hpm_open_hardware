@@ -195,3 +195,13 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 - 仓库地址: [hpm5e31kit-Plus](https://oshwhub.com/hasaki6/hpm5e31kit-plus)
 
 ![](image/hpm5e31kit-Plus.jpg)
+
+
+## hpm6880-devboard
+
+- 基于官方EVK设计重新画板，因为免费打板的尺寸限制，就把板子拆成了四个子板，共三层，底层是基于FTDI FT2232H的调试器（也可以自己搓用四线JTAG的DAP Link，在另一个自制的HPM6360开发板工程中亦有记载），一些低速通信，一个ETH子板（千兆以太网的MAC和PHY之间能用软排线吗？其实我也没啥把握QAQ），按钮和一些空闲的Pin。中间是核心和Display输出FPC座。上层是音频，SD卡，Camera接口，并引出所有未使用的Pin，预计还能放一块RGB888屏幕（已经自己选了块4寸屏但是懒得调了）。删除了一些自己玩不太需要的电路（比如外部的VDDCORE和DDR供电）。设计时做过粗略的阻抗匹配和等长（虽然也没控制的很精确，但够用了）。顶层和底层是四层板，中层是六层板，都使用3313叠层
+
+- 仓库地址: [hpm6880-devboard](https://oshwhub.com/moemoemeow/hpm6880-devboard)
+
+![](image/hpm6880-devboard2.png)
+![](image/hpm6880-devboard1.png)

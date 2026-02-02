@@ -205,3 +205,12 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 
 ![](image/hpm6880-devboard2.png)
 ![](image/hpm6880-devboard1.png)
+
+
+## HPM5321 高速隔离USBCAN FD工具
+- HPM5321 USBCAN FD工具，带隔离的高速USB转CAN工具，支持CAN FD，最高支持5M BRS。使用HPM5321，可通过USB把CAN FD网络连接到电脑
+
+- 仓库地址: [HPM5321 高速隔离USBCAN FD工具](https://oshwhub.com/eda_kwazdnpkc/hpm5321_pcan)
+
+![](image/5321-pcan.png)
+![](image/5321-xcan.png)

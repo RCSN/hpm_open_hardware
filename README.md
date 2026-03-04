@@ -214,3 +214,13 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 
 ![](image/5321-pcan.png)
 ![](image/5321-xcan.png)
+
+## HPM5E_FOC开发板
+- 基于先楫HPM5E31IPB1的FOC开发板，将EtherCAT P0/P1引出，板载OLED、SPI、串口、CAN等外设。
+
+- 仓库地址: [HPM5E_FOC开发板](https://oshwhub.com/ackict/gong-ye-qian-ru-shi-ethercat-hpm5e-kai-fa-ban-_copy)
+- [github地址](https://github.com/ackict/HPM5E_FOC_)
+
+![](image/HPM5E_FOC_ackict.jpg)
+![](image/hpm5e_foc_ackict.png)
+

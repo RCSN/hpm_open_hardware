@@ -224,3 +224,10 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 ![](image/HPM5E_FOC_ackict.jpg)
 ![](image/hpm5e_foc_ackict.png)
 
+## 基于HPM6880的LambdaPi2
+- 使用了HPM6880作为主控，板载512MB的DDR3L，64G EMMC与wifi蓝牙模组AP6256。可以使用板载hslink调试，也可以外部连接jlink等调试器。有三个视频接口。
+
+- 仓库地址: [基于HPM6880的LambdaPi2](https://oshwhub.com/zhaowenbin/lambdapi2)
+
+![](image/lambdpi2_top.png)
+![](image/lambdpi2.png)

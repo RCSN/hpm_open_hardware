@@ -238,3 +238,30 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 
 - 仓库地址: [hpm6e8y-kit](https://oshwhub.com/hasaki6/hpm6e8y-kit)
 ![](image/hpm6e8y-kit.png)
+
+
+---
+
+## hpm5151evk-lite
+
+- 主控为 **HPM5151**（HPM5151IN6）；板载调试器使用 **CH32L103**，默认烧录 **Black Magic Debug** 调试器固件。
+- 板载两个 TYPE-C 接口：一个是 HPM5151 的 **USB-HS**，另一个是 CH32L103 调试器的 **USB-FS**。
+- 板载40pin排针，兼容树莓派引脚定义
+- CAN 收发器可通过电阻跳接 HPM5151 与 CH32L103，因此也可以试试 CH32L103 上的 CANFD。
+  >不过，结论先放上来：CH32L103 的 CANFD 远不如 HPM 所使用的 MCAN，属「能用但不好用」，主要有两个缺点：
+  > 缺点 1：要使用 USB，就必须使用 48M / 72M / 96M 时钟，但这几个时钟对 CANFD 来说都无法配出 5M 的分频系数；
+  > 缺点 2：FIFO 深度仅为 1，丢包风险比较高。
+- 目前已经为该硬件适配GS_USB，可以烧录固件作为CANDLE设备USB2CANFD使用
+- 如果不想用板载调试器，HPM5151的JTAG也已经引到了40PIN排针，可外接调试器
+
+- 参考软件开源地址：
+  - HPM 启动/Bootloader：[hpm_dfu_boot](https://github.com/zhangjiance/hpm_dfu_boot)
+  - HPM 示例工程：[hpm_hello_world](https://github.com/zhangjiance/hpm_hello_world)
+  - GS_USB移植示例工程: [candleLight_fw_hpm_port](https://github.com/zhangjiance/candleLight_fw_hpm_port.git)
+  - 板载调试器（CH32L103）BMP 固件：[bmp-ch32xx-port](https://github.com/zhangjiance/bmp-ch32xx-port)
+- 硬件开源地址:
+  [**hpm5151evk-lite**](https://github.com/chenjh92/HPM5151-EVK-Lite)
+
+![hpm5151evk-lite](image/hpm5151evklite.png)
+
+---
